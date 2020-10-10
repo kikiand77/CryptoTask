@@ -3,8 +3,8 @@ tasks for crpto.com
 It took about half a day to complete the tasks.
 
 1. Download Selenium (pip install Selenium)
-2. Download WebDriver for Chrome(Choose 
-2. Execute the python files 
+2. Download WebDriver for Chrome
+3. Execute the python files 
 
 Task 1 :
 Use selenium to locate the "CRO Market", "CRO/USDC" and "Trade" button to access "CRO/USDC" trade page.
